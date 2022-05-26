@@ -1,11 +1,19 @@
-# 
+# Link
+[Qiita](https://qiita.com/motamura)
+[Zenn](https://zenn.dev/murakamixi)
 
-# Status
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula
+# Git Hub info
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=murakamixi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/murakamixi/)
 
 <!-- リポジトリステータス -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murakamixi&theme=tokyonight)
+
+<!-- トップ開発言語レポート --><!-- トップコミット言語レポート -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=murakamixi&theme=tokyonight)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=murakamixi&theme=tokyonight)
+
+<!-- リポジトリステータス --><!-- productive-time -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats/?username=murakamixi&theme=tokyonight)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time/?username=murakamixi&theme=tokyonight)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murakamixi&layout=compact&theme=tokyonight)](https://github.com/murakamixi/)
